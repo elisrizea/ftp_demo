@@ -24,17 +24,3 @@
     Alin Rizea
     https://www.linkedin.com/in/alin-rizea-b10368104/
 
-
-Hello,
-
-My proposal is for us to connect on LinkedIn and also create a WhatsApp group. My LinkedIn profile can be found at https://www.linkedin.com/in/alin-rizea-b10368104/, and my phone number for WhatsApp is +44 7429 386264.
-
-If you agree with my proposal, please let me know your phone number so I can add you to the WhatsApp group.
-
-As homework, I completed the Hangman game, but I was too lazy to do the weather app. If you would like to check out my solution, you can find it on GitHub: https://github.com/elisrizea/hangman/blob/master/hangman.py
-
-If anyone would like to collaborate with me on creating a weather app, please let me know, and I can set up a GitHub repository to make contributing easy.
-
-Thank you, and have a nice weekend.
-
-Alin Rizea
