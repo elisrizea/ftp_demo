@@ -1,5 +1,5 @@
 
-# **FTP authomation demo**
+# **FTP automation demo**
     Python script that connects to an FTP server, downloads files from it. simple demo 
     of modules as ftplib ,shutil, os.
 
