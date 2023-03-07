@@ -1,0 +1,32 @@
+ftp_host = files.000webhost.com
+ftp_user = ftpdemo333
+ftp_pass = XP%MQ(*qwgD#8QxoP@kh
+download_interval(hh:mm:ss) = 0:0:20
+move_interval(hh:mm:ss) = 0:0:10
+local_dir(path to local dir) = local
+internal_dir(path to internal dir) = /Users/alin/hyperiondev/brainnest/authomation/internal
+
+
+*********************** Important obs ******************
+The first line of the file should specify the FTP server hostname or IP address that the client should connect to.
+This is indicated with the following line format: ftp_host = 'host_name'. (relative or absolut path)
+
+The second line of the file should specify the username to be used for authentication when connecting to the FTP server.
+This is indicated with the following line format: ftp_user = user.
+
+The third line of the file should specify the password to be used for authentication when connecting to the FTP server.
+This is indicated with the following line format: ftp_pass = pass.
+
+The fourth line of the file should specify the time interval at which the client should download files from the FTP server.
+This is indicated with the following line format: download_interval(hh:mm:ss) = 0:0:20. The time interval can be adjusted by changing the values for hours, minutes, and seconds.
+
+The fifth line of the file should specify the time interval at which the client should move files from the local directory or the internal directory.
+This is indicated with the following line format: move_interval(hh:mm:ss) = 0:0:10. The time interval can be adjusted by changing the values for hours, minutes, and seconds.
+The sixth line of the file should specify the path to the local directory where downloaded files should be stored.
+
+This is indicated with the following line format: local_dir(path to local dir) = local path. The path can be adjusted by changing the value after the equals sign.
+The seventh line of the file should specify the path to the internal directory where files should be moved to after they have been downloaded. This is indicated with the following line format: internal_dir(path to internal dir) = internal_folder_path. The path can be adjusted by changing the value after the equals sign.
+It's important to note that the file format should be respected in order for the program to work as intended.
+
+ Any deviations from this format can cause issues when reading the configuration settings.
+ Additionally, it's important to ensure that the values specified for each setting are valid and can be used by the program.
