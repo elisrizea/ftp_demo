@@ -13,8 +13,10 @@
 
 # **Require:**
     Please download the 'atf.py' and 'config.txt' files. Edit config.txt then run aft.py
-    To ensure that the configuration settings are correctly utilized and the default settings are avoided, 
-    verify that the information after the "=" sign in the first seven lines of the 'config.txt' file is accurate.
+    To ensure that the configuration settings are correctly utilized and the default settings 
+    are avoided, verify that the information after the "=" sign in the first seven lines of 
+    the 'config.txt' file is accurate.
+    
 # **Running:**
     Usage: python3 aft.py
 
